@@ -1,4 +1,4 @@
-modeule Findable
+module Findable
 
 
 
